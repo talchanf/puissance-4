@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="D:\lazarus\fpc\3.2.2\bin\i386-win32\fpc.exe" Date="1482329590"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -l -vewnhibq &quot;-FiE:\S2\algo-prog\projet fin d&apos;année\lib\i386-win32&quot; &quot;-FuE:\S2\algo-prog\projet fin d&apos;année\&quot; &quot;-FUE:\S2\algo-prog\projet fin d&apos;année\lib\i386-win32\&quot; &quot;-FEE:\S2\algo-prog\projet fin d&apos;année\&quot; &quot;-oE:\S2\algo-prog\projet fin d&apos;année\pjfa.exe&quot; pjfa.lpr"/>
+</CONFIG>
